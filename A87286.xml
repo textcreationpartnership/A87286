@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Intelligence from Shropshire, of three great victories obtained by the forces of Shrewesburie (commanded by the committee there;) viz. the taking of Stokesey and Cause-castles, places of great strength; and a great victory obtained in the fields, with a catalogue of the prisoners. Sent from persons of worth, that were in the action, to a person of honour in London. Published according to order.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87286</idno><idno type="EEBO-CITATION">99860941</idno>
+  <idno type="VID">113068</idno>
+  <idno type="EEBO-PROQUEST">2240884123</idno>
+  
+            <idno type="STC">Wing I260</idno>
+            <idno type="STC">Thomason E290_11</idno>
+            <idno type="STC">ESTC R200136</idno>
+            <idno type="PROQUEST">99860941</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860941e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87286)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113068)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E290[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Intelligence from Shropshire, of three great victories obtained by the forces of Shrewesburie (commanded by the committee there;) viz. the taking of Stokesey and Cause-castles, places of great strength; and a great victory obtained in the fields, with a catalogue of the prisoners. Sent from persons of worth, that were in the action, to a person of honour in London. Published according to order.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Underhill, and are to be sold at the Bible in Woodstreet,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>June 28. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Shrewsbury (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113068:1"/>
+            <p>INTELLIGENCE FROM SHROPSHIRE, Of three GREAT VICTORIES Obtained by the Forces of Shrewesburie (Commanded by the Committee there;) <hi>viz.</hi>
+            </p>
+            <p>The taking of <hi>Stokesey</hi> and <hi>Cause-castles,</hi> places of great strength; and a great Victory obtained in the fields, with a Catalogue of the prisoners.</p>
+            <p>Sent from Persons of worth, that were in the Action, to a Person of Honour in <hi>London.</hi>
+            </p>
+            <p>
+               <hi>Published according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Underhill,</hi> and are to be sold at the Bible in <hi>Woodstreet,</hi> June 28. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113068:2"/>
+            <pb n="1" facs="tcp:113068:2"/>
+            <head>A Relation of three great Victories obtained by the Forces of <hi>Shropshire.</hi>
+            </head>
+            <div type="letter">
+               <opener>
+                  <dateline>
+                     <hi>Shrewesbury,</hi>
+                     <date>June 19. 1645.</date>
+                  </dateline>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">T</seg>Here was drawn out of this Gar<g ref="char:EOLhyphen"/>rison by order from the Com<g ref="char:EOLhyphen"/>mittee, 500. foot, and 300. horse, <hi>viz.</hi> part of Col. <hi>Mackworths</hi> Regiment, and part of Colonel <hi>Lloyds</hi> Regiment, both of them marched along in the service, our forces marched within five miles of <hi>Ludlow;</hi> the de<g ref="char:EOLhyphen"/>sign being to reduce that part of this county, and to secure it, by placing some Garrisons there, to block up <hi>Ludlow;</hi> with a party of horse they viewed <hi>How<g ref="char:EOLhyphen"/>gate</hi> and <hi>Braincroft</hi> Castles, both of which the enemy had much demolished, notwithstanding they placed the Lord <hi>Calvine</hi> in <hi>Braincroft</hi> castle, and fell to re<g ref="char:EOLhyphen"/>pair &amp; fortifie it, in the interim, they sent Liev. Col. <hi>Rivling</hi> to view <hi>Stokesay</hi> castle, a garrison of the ene<g ref="char:EOLhyphen"/>mies; the place was conceived considerable, there<g ref="char:EOLhyphen"/>fore the next morning wee drew up to it, and sum<g ref="char:EOLhyphen"/>moned
+<pb n="2" facs="tcp:113068:3"/> it, but the Gorvernour, Captain <hi>Dauret,</hi> re<g ref="char:EOLhyphen"/>fused; thereupon wee prepared for a storme, being ready to fall on, gave a second summons, which was hearkened unto, a parley admitted, and the castle de<g ref="char:EOLhyphen"/>livered up, and is now garrisoned by us: One of these castles commands all <hi>Cordale,</hi> a rich and fertill part of the county; the other secures all <hi>Stretonsdale,</hi> so that <hi>Ludlow</hi> is blockt up on this side, and hath only <hi>Hereford</hi> to range in, continuing in these parts, for the securing these garrisons, Sir <hi>Mich. Woodhouse,</hi> Governour of <hi>Ludlow,</hi> one that came out of <hi>Ireland,</hi> procures all the Kings garrisons for above 20. miles compasse, to draw out for his reliefe: Col. <hi>Lunsford</hi> from <hi>Munmouth,</hi> Col. <hi>Sands</hi> from <hi>Worcester,</hi> Col. <hi>Skudamore</hi> from <hi>Hereford,</hi> Sir <hi>Mich. Woodhouse</hi> from <hi>Ludlow,</hi> forces from <hi>Hartelbury,</hi> and other garrisons, all which made a body of about 2000. horse and foot, which marched up neer <hi>Braincroft</hi> castle, wee being too weak to encounter with them, marched to <hi>Wi<g ref="char:EOLhyphen"/>stenstow,</hi> within a mile of <hi>Stook,</hi> the better to inforce our selves from <hi>Shrewsbury</hi> and <hi>Montgomerie,</hi> whither we sent for forces, but came not in time enough, the enemies, contrary to our expectation, judging <hi>Stook</hi> of more consequence, made hast thither, to besiege it, of whose approach, the Colonels having intelli<g ref="char:EOLhyphen"/>gence, with advice of the field-officers, drew out, re<g ref="char:EOLhyphen"/>solving to fight, our horse made what hast they could to come in, Captain <hi>Fouks</hi> troope, to which were joyned some reformado's, fell upon a body of the enemies horse, being 200. and routed them, the foot marched on with gallant resolution, beat up all their ambuscadoes in the hedges for a mile together, un<g ref="char:EOLhyphen"/>till they came to the main body, which after an
+<pb n="3" facs="tcp:113068:3"/> hours fight, wee routed and dispersed. In this bu<g ref="char:EOLhyphen"/>sinesse Liev. Col. <hi>Rinking</hi> deserves much honour, in which he shewed as much valour as a man could do, and also the Colonels did very gallantly; wee slew neer 100. on the place, tooke above 300. common souldiers, about 60. officers and Gentlemen, all their Ordnance, bag and baggage, 4. barrels of powder, a good quantity of match and bullets, 100. horse, some Gentlemen of quality were slain; there being most of the Gallantry of <hi>Herefordshire.</hi> In the action Sir <hi>William Crofts</hi> the best head-piece, and activest man in that county was slain on the place, the Governour of <hi>Ludlow</hi> and <hi>Munmouth</hi> hardly escaped, Sir <hi>Mich. Woodhouse</hi> his horse being taken. The glory of this great action belongs only to God, who was plea<g ref="char:EOLhyphen"/>sed to make weak means instrumentall to do so great a work: Major <hi>Fenwick,</hi> who behaved himselfe gal<g ref="char:EOLhyphen"/>lantly is wounded, but we hope not mortally.</p>
+               <list>
+                  <head>There were taken in this fight:</head>
+                  <item>Col. <hi>James Boughton.</hi>
+                  </item>
+                  <item>Capt. <hi>Walter Neale.</hi>
+                  </item>
+                  <item>Capt. <hi>George Wright.</hi>
+                  </item>
+                  <item>Capt. <hi>Tho. Statt.</hi>
+                  </item>
+                  <item>Capt. Liev. <hi>Joseph Singe.</hi>
+                  </item>
+                  <item>2. <hi>Cornets.</hi>
+                  </item>
+                  <item>3. <hi>Ensignes.</hi>
+                  </item>
+                  <item>2. <hi>Lievtenants.</hi>
+                  </item>
+                  <item>3. <hi>Sergeants.</hi>
+                  </item>
+                  <item>9. <hi>Quartermasters.</hi>
+                  </item>
+                  <item>7. <hi>Corporalls.</hi>
+                  </item>
+                  <item>5. <hi>Waggoners.</hi>
+                  </item>
+                  <item>3. <hi>Mountrosses.</hi>
+                  </item>
+                  <item>
+                     <hi>Gerrard Steele,</hi> Physician.</item>
+                  <item>
+                     <hi>Rich. Richardson,</hi> Chirur<g ref="char:EOLhyphen"/>geon, and many Gentle<g ref="char:EOLhyphen"/>men.</item>
+               </list>
+               <p>This fight was on the 9. of <hi>June,</hi> we returned to <hi>Salop</hi> on the 11<seg rend="sup">th</seg>, and marched out again on the 14<seg rend="sup">th</seg>
+                  <pb n="4" facs="tcp:113068:4"/> early, with 13. colours of foot, and five troopes of horse towards <hi>Bridgenorth:</hi> on the 16<seg rend="sup">th</seg> there was sent hither 26. prisoners, most of them Officers, taken, as I understand, coming towards <hi>Bridgenorth,</hi> amongst these prisoners there are four Parsons, <hi>viz.</hi> Parson <hi>Avacham,</hi> and Parson <hi>Ambler,</hi> these two have been wicked Incendiaries, the other two I know not, this feat being done, out forces faced about, and before any of us knew of it, were set down before <hi>Cause-castle,</hi> within seven miles of this town, which is a strong garrison of the enemies; wee are close up to the walls already, if we be not disturbed by a grea<g ref="char:EOLhyphen"/>ter strength, I hope wee shall carry it, all the Gentle<g ref="char:EOLhyphen"/>men of the Committee but one, are in this service, and very active.</p>
+            </div>
+            <div type="summary_accounts">
+               <p>BY letters foom <hi>Shropshire</hi> of the 23. of <hi>June,</hi> wee are certified, that the strong castle of <hi>Cause,</hi> after seven dayes siege, is taken by the forces of <hi>Shropshire,</hi> the Officers and souldiers marched out with their single armes, without any baggage, all the horse are delivered up to the Committes, for the service of the publike. It is a place of great concernment, and stands upon a rock not mineable, by this the coun<g ref="char:EOLhyphen"/>trey is cleared on that side Severne, to <hi>Ludlow,</hi> and quite up to <hi>Montgomery,</hi> the county is in a good con<g ref="char:EOLhyphen"/>dition, and will be very speedily put into a brave po<g ref="char:EOLhyphen"/>sture. The forces, as one of credit reports, that came thence since the taking of <hi>Cause,</hi> are before <hi>Shraw<g ref="char:EOLhyphen"/>don</hi> castle.</p>
+               <p>The said person reports, that as hee came out of <hi>Shrewesbury,</hi> newes came, that Liev. Col. <hi>Jones,</hi> with
+<pb n="5" facs="tcp:113068:4"/> Sir <hi>William Breretons</hi> forces, had beaten a party of the enemies which came out of <hi>Chester,</hi> have taken and slain 300. horse.</p>
+               <p>Sir <hi>Thomas Fairfax</hi> quartered, the 25. of <hi>June,</hi> at <hi>Stowe,</hi> on 26. purposeth to be at <hi>Malmsbury:</hi> The King was lately at <hi>Hereford,</hi> labouring the countrey for supplies of men and moneys, who are unwilling to either; hee hastens towards <hi>Taunton,</hi> hoping to conquer our forces there, that so hee may have ano<g ref="char:EOLhyphen"/>ther Infantry, to prevent which, Sir <hi>Thomas Fairfax</hi> marches streight thitherward with all speed, who joyning with Major Generall <hi>Massey,</hi> will be a very great Army, so that great action may suddenly be expected.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
